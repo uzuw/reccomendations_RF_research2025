@@ -2,7 +2,7 @@
 
 A hybrid filtering-based hotel recommendation system that personalizes hotel suggestions based on user preferences, location, budget, and amenities.
 
-![logo](./src/assets/logo1b.png)
+![logo](./frontend/src/assets/logo1b.png)
 
 ---
 
