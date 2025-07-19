@@ -1,8 +1,10 @@
-## 🏨 Smart Hotel Recommendation System for Research Project 2025 4th semester PU/Gces
+## 🏨 Smart Hotel Recommendation System
 
 A hybrid filtering-based hotel recommendation system that personalizes hotel suggestions based on user preferences, location, budget, and amenities.
 
-![logo](./frontend/src/assets/logo1b.png)
+
+
+
 
 ---
 
@@ -98,17 +100,14 @@ This project is licensed under the MIT License. Feel free to fork and contribute
 
 ---
 
-## 👨‍💼 Research By
+## 👨‍💼 Contributors
 
 * Ujjwal Rana
 * Sushan Tamang
 * Sajish Banstola
 
-## 🧑‍💻 Coded By
-* frontend- Ujjwal Rana
-* backend- Ujjwal Rana
-
-
 ---
 
 Feel free to open issues or suggestions. Pull requests are welcome!
+
+![Thank You](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXMzdjNzYmhhODUwOXJsOWs0N2t1MTIwamFudG13MGFxcm92NWNyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3qIzgpZiysvSBaHsNf/giphy.gif)
