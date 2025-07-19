@@ -1,5 +1,7 @@
-id,name,location,price,features,rating
-1,Hotel Mountain,Pokhara,medium,"wifi,breakfast",4.5
-2,City Inn,Kathmandu,high,"wifi,spa,mountains",4.7
-3,Lake Side Retreat,Pokhara,medium,"wifi,breakfast,lake view",4.6
-4,Budget Stay,Butwal,low,"wifi,parking",3.8
+id,name,location,price,features,rating,image_url
+1,Hotel Mountain,Pokhara,medium,"wifi,breakfast",4.5,hotel1.jpg
+2,City Inn,Kathmandu,high,"wifi,spa,mountains",4.7,hotel2.jpg
+3,Lake Side Retreat,Pokhara,medium,"wifi,breakfast,lake view",4.6,hotel3.jpg
+4,Budget Stay,Butwal,low,"wifi,parking",3.8,hotel4.jpg
+5,Heritage Hotel,Bhaktapur,high,"wifi,breakfast,heritage",4.9,hotel5.jpg
+6,Green Valley Resort,Nagarkot,medium,"wifi,spa,garden",4.4,hotel6.jpg
