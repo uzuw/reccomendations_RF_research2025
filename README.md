@@ -107,6 +107,16 @@ This project is licensed under the MIT License. Feel free to fork and contribute
 * Sajish Banstola
 
 ---
+## 🧑‍💻 Coded By
+
+* Frontend Ujjwal Rana
+* Backend Ujjwal Rana
+
+
+---
+
+
+
 
 Feel free to open issues or suggestions. Pull requests are welcome!
 
